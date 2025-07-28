@@ -4,12 +4,12 @@
 #include <WebSocketsServer.h>
 #include <DHT.h>
 
-// === Sensor Pins and Threshold ===
+
 #define DHTPIN      D8
 #define DHTTYPE     DHT22
 #define SOIL_PIN    A0
 #define LDR_PIN     A3
-#define THRESHOLD   530  // Soil Moisture threshold
+#define THRESHOLD   530 
 
 // === WiFi Credentials ===
 const char* ssid = "Gadigeppa";
