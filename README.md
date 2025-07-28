@@ -29,16 +29,5 @@ This project is a real-time weather monitoring system built using the **ESP32-C3
 - HTML + CSS + JavaScript (Chart.js) for dashboard
 - WebSocket protocol for fast, real-time communication
 
----
 
-## 🔌 Circuit Diagram
-[📸 Add schematic or Fritzing diagram here]
 
----
-
-## 📊 Live Dashboard Preview
-[🖼️ Insert a screenshot of your web dashboard]
-
----
-
-## 📁 Project Structure
